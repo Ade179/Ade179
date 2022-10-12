@@ -22,7 +22,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I was into content-writing and music and my passion led me here
 
 
+
+
+
 <a src="https://www.microverse.com/html/"><img src="https://i.im.ge/2022/06/15/rJaI6K.png" alt="rJaI6K.png" border="0"/></a>
+
+
+
+
+
+
 
 <a src="https://rubyonrails.org/"><img src="https://img.icons8.com/color/48/000000/ruby"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
